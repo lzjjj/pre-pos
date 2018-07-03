@@ -10,6 +10,6 @@ function createUpdatedCollection(collectionA, objectB) {
 			}
 		  }
 	  }
-  }
+	}
   return collectionA;
 }
